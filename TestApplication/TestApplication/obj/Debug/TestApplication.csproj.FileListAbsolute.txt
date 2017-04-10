@@ -1,0 +1,12 @@
+k:\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+k:\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+k:\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+k:\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+k:\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+k:\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Admin\Downloads\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Admin\Downloads\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\Admin\Downloads\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Admin\Downloads\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Admin\Downloads\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
